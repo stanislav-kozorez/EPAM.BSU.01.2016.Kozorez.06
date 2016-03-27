@@ -18,7 +18,7 @@ https://github.com/stanislav-kozorez/EPAM.BSU.01.2016.Kozorez.02/blob/master/Log
 
 Выполненное задание:
 
-https://github.com/stanislav-kozorez/EPAM.BSU.01.2016.Kozorez.04/commit/1a0400836dff015a3074c779ced3669b2871fd86
+https://github.com/stanislav-kozorez/EPAM.BSU.01.2016.Kozorez.04/tree/master/Logic/Task1
 
 Задание 3.  
 
