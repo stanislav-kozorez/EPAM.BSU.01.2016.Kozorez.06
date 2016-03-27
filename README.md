@@ -6,7 +6,7 @@
 
 Выполненное задание:
 
-https://github.com/stanislav-kozorez/EPAM.BSU.01.2016.Kozorez.02/commit/1ba2e50b3726d76565301bc47d7df97b8ae5edab
+https://github.com/stanislav-kozorez/EPAM.BSU.01.2016.Kozorez.02/blob/master/Logic/Task2.cs
 
 Задание 2. 
 
